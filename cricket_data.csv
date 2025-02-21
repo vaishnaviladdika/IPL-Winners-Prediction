@@ -1,0 +1,251 @@
+match_id,season,start_date,venue,innings,ball,batting_team,bowling_team,striker,non_striker,bowler,runs_off_bat,extras,wides,noballs,byes,legbyes,penalty,wicket_type,player_dismissed,other_wicket_type,other_player_dismissed,Match_Winner
+1,2020,2017-01-01,Stadium A,2,145,Team B,Team C,Player 2,Player 6,Bowler 1,1,0,,,0.0,0.0,0.0,Bowled,Player 2,nan,nan,Team B
+2,2021,2017-01-08,Stadium B,1,201,Team A,Team D,Player 2,Player 4,Bowler 1,0,2,1.0,,0.0,,0.0,Bowled,Player 3,nan,Player 5,Team D
+3,2019,2017-01-15,Stadium B,2,212,Team D,Team C,Player 2,Player 4,Bowler 1,1,3,0.0,1.0,0.0,,0.0,Bowled,Player 3,nan,Player 4,Team D
+4,2021,2017-01-22,Stadium C,2,220,Team B,Team C,Player 2,Player 5,Bowler 2,6,2,,,,,0.0,Bowled,Player 1,Run Out,Player 6,Team D
+5,2021,2017-01-29,Stadium B,2,240,Team D,Team B,Player 2,Player 4,Bowler 1,0,3,0.0,1.0,0.0,,,nan,Player 1,Run Out,nan,Team D
+6,2018,2017-02-05,Stadium A,2,46,Team A,Team D,Player 3,Player 5,Bowler 1,3,1,,,,,0.0,nan,Player 3,Run Out,Player 5,Team A
+7,2019,2017-02-12,Stadium C,2,35,Team C,Team A,Player 1,Player 6,Bowler 2,2,1,0.0,,,0.0,,LBW,Player 1,nan,Player 6,Team A
+8,2019,2017-02-19,Stadium A,1,253,Team A,Team C,Player 3,Player 4,Bowler 2,0,4,,0.0,,0.0,,LBW,Player 1,Run Out,Player 6,Team D
+9,2019,2017-02-26,Stadium A,1,82,Team A,Team D,Player 1,Player 6,Bowler 3,5,3,0.0,1.0,,0.0,,Caught,Player 1,nan,Player 4,Team B
+10,2021,2017-03-05,Stadium B,1,256,Team A,Team B,Player 3,Player 6,Bowler 2,3,4,0.0,0.0,,0.0,0.0,LBW,nan,Run Out,Player 4,Team A
+11,2020,2017-03-12,Stadium B,2,197,Team A,Team A,Player 2,Player 4,Bowler 2,0,0,,0.0,0.0,,0.0,LBW,nan,Run Out,Player 6,Team C
+12,2019,2017-03-19,Stadium B,2,10,Team C,Team D,Player 1,Player 4,Bowler 3,0,3,0.0,0.0,0.0,,,Bowled,Player 3,nan,Player 6,Team A
+13,2021,2017-03-26,Stadium B,1,286,Team C,Team A,Player 1,Player 6,Bowler 2,2,2,0.0,1.0,0.0,0.0,,Bowled,Player 1,nan,nan,Team C
+14,2018,2017-04-02,Stadium B,2,242,Team D,Team A,Player 3,Player 4,Bowler 2,6,0,0.0,1.0,,,,LBW,nan,Run Out,Player 6,Team D
+15,2020,2017-04-09,Stadium C,1,251,Team B,Team A,Player 3,Player 5,Bowler 2,5,0,,,0.0,,0.0,Caught,Player 3,Run Out,nan,Team A
+16,2018,2017-04-16,Stadium A,1,5,Team C,Team C,Player 1,Player 5,Bowler 2,4,2,,0.0,0.0,0.0,,Bowled,Player 1,nan,Player 6,Team B
+17,2020,2017-04-23,Stadium A,1,119,Team C,Team C,Player 3,Player 4,Bowler 3,4,0,0.0,,,0.0,0.0,LBW,Player 2,Run Out,Player 4,Team A
+18,2021,2017-04-30,Stadium A,2,289,Team B,Team B,Player 3,Player 6,Bowler 2,0,3,0.0,0.0,,,,LBW,Player 1,Run Out,nan,Team A
+19,2017,2017-05-07,Stadium A,2,65,Team C,Team B,Player 3,Player 4,Bowler 2,1,4,,1.0,,,,nan,Player 1,nan,Player 5,Team A
+20,2020,2017-05-14,Stadium B,1,146,Team A,Team D,Player 2,Player 4,Bowler 3,5,0,,1.0,,0.0,,Caught,nan,Run Out,Player 4,Team D
+21,2018,2017-05-21,Stadium A,1,224,Team A,Team B,Player 2,Player 6,Bowler 1,3,3,0.0,1.0,0.0,0.0,0.0,nan,Player 3,nan,nan,Team B
+22,2021,2017-05-28,Stadium C,1,239,Team B,Team A,Player 3,Player 6,Bowler 3,1,1,0.0,0.0,,0.0,0.0,Caught,Player 3,Run Out,nan,Team A
+23,2020,2017-06-04,Stadium C,1,177,Team D,Team A,Player 3,Player 5,Bowler 1,1,3,0.0,1.0,,,,Bowled,nan,nan,Player 5,Team B
+24,2017,2017-06-11,Stadium A,2,267,Team D,Team C,Player 2,Player 6,Bowler 3,5,4,1.0,0.0,0.0,0.0,0.0,Caught,Player 1,Run Out,nan,Team D
+25,2017,2017-06-18,Stadium A,2,282,Team B,Team A,Player 2,Player 5,Bowler 3,6,3,,,0.0,0.0,,LBW,Player 2,nan,Player 6,Team C
+26,2019,2017-06-25,Stadium C,1,63,Team B,Team D,Player 1,Player 6,Bowler 2,0,2,1.0,0.0,,,0.0,LBW,Player 1,Run Out,Player 5,Team A
+27,2019,2017-07-02,Stadium C,1,217,Team A,Team A,Player 1,Player 4,Bowler 1,0,4,,,0.0,,0.0,Caught,Player 1,nan,Player 4,Team B
+28,2018,2017-07-09,Stadium B,2,283,Team D,Team A,Player 2,Player 5,Bowler 2,0,1,,0.0,,,0.0,Caught,Player 2,Run Out,Player 4,Team B
+29,2020,2017-07-16,Stadium C,2,177,Team C,Team D,Player 3,Player 5,Bowler 1,0,2,,,,,,Caught,nan,Run Out,Player 6,Team D
+30,2020,2017-07-23,Stadium B,1,98,Team A,Team B,Player 3,Player 5,Bowler 3,4,3,,1.0,0.0,,0.0,nan,Player 3,Run Out,Player 4,Team A
+31,2019,2017-07-30,Stadium B,1,105,Team B,Team B,Player 3,Player 4,Bowler 3,0,4,,,0.0,0.0,0.0,Caught,nan,Run Out,nan,Team C
+32,2020,2017-08-06,Stadium B,1,99,Team D,Team D,Player 3,Player 4,Bowler 1,4,1,,1.0,,0.0,,Bowled,nan,Run Out,nan,Team B
+33,2020,2017-08-13,Stadium B,2,6,Team C,Team C,Player 1,Player 4,Bowler 2,4,2,,1.0,,,,nan,Player 1,Run Out,Player 6,Team A
+34,2017,2017-08-20,Stadium B,2,197,Team C,Team A,Player 2,Player 4,Bowler 2,6,1,1.0,,,,,nan,Player 3,Run Out,Player 4,Team C
+35,2019,2017-08-27,Stadium A,2,133,Team A,Team D,Player 3,Player 4,Bowler 2,0,3,0.0,0.0,0.0,,,Caught,Player 3,Run Out,Player 4,Team B
+36,2021,2017-09-03,Stadium C,1,259,Team D,Team A,Player 1,Player 5,Bowler 2,2,1,0.0,0.0,,,0.0,Bowled,nan,Run Out,Player 6,Team B
+37,2019,2017-09-10,Stadium B,1,23,Team D,Team C,Player 3,Player 4,Bowler 3,3,0,1.0,0.0,,,0.0,nan,Player 2,nan,Player 5,Team C
+38,2021,2017-09-17,Stadium C,2,53,Team B,Team A,Player 2,Player 5,Bowler 3,1,2,1.0,0.0,,0.0,0.0,LBW,nan,nan,Player 4,Team C
+39,2017,2017-09-24,Stadium C,2,165,Team D,Team D,Player 1,Player 4,Bowler 3,4,1,1.0,0.0,,0.0,0.0,nan,Player 2,Run Out,Player 5,Team D
+40,2018,2017-10-01,Stadium B,1,202,Team D,Team A,Player 2,Player 6,Bowler 3,5,3,1.0,1.0,,0.0,0.0,Caught,Player 3,nan,Player 4,Team A
+41,2020,2017-10-08,Stadium A,2,83,Team A,Team B,Player 2,Player 5,Bowler 3,5,3,,0.0,0.0,0.0,,Bowled,nan,Run Out,Player 4,Team A
+42,2017,2017-10-15,Stadium B,2,145,Team D,Team C,Player 1,Player 6,Bowler 2,3,1,0.0,1.0,,,0.0,Caught,Player 1,Run Out,Player 4,Team D
+43,2020,2017-10-22,Stadium A,1,85,Team C,Team C,Player 1,Player 5,Bowler 2,5,3,,1.0,,0.0,0.0,LBW,nan,nan,Player 4,Team B
+44,2018,2017-10-29,Stadium C,2,78,Team A,Team C,Player 1,Player 6,Bowler 2,2,4,0.0,1.0,,,0.0,LBW,Player 3,Run Out,nan,Team C
+45,2018,2017-11-05,Stadium A,1,1,Team A,Team D,Player 1,Player 4,Bowler 2,5,4,0.0,,,,,LBW,Player 1,Run Out,Player 5,Team C
+46,2017,2017-11-12,Stadium A,1,51,Team B,Team C,Player 1,Player 4,Bowler 3,1,4,1.0,,0.0,,,Caught,Player 1,nan,Player 5,Team C
+47,2018,2017-11-19,Stadium A,1,173,Team D,Team B,Player 1,Player 4,Bowler 3,1,0,,1.0,0.0,0.0,0.0,nan,Player 2,nan,Player 4,Team B
+48,2021,2017-11-26,Stadium C,1,205,Team B,Team D,Player 1,Player 5,Bowler 3,4,1,1.0,,0.0,,,Caught,Player 1,Run Out,Player 4,Team C
+49,2018,2017-12-03,Stadium C,1,260,Team C,Team B,Player 3,Player 6,Bowler 1,0,0,,0.0,,0.0,,Bowled,Player 1,nan,Player 5,Team C
+50,2020,2017-12-10,Stadium A,1,288,Team A,Team A,Player 2,Player 4,Bowler 2,6,3,0.0,0.0,,0.0,,nan,nan,nan,nan,Team D
+51,2020,2017-12-17,Stadium A,1,34,Team A,Team A,Player 1,Player 6,Bowler 2,2,0,1.0,1.0,0.0,,,LBW,Player 3,Run Out,Player 6,Team B
+52,2020,2017-12-24,Stadium B,2,95,Team A,Team A,Player 3,Player 6,Bowler 3,4,3,1.0,0.0,0.0,,,Caught,Player 2,nan,Player 6,Team A
+53,2020,2017-12-31,Stadium A,1,72,Team C,Team A,Player 3,Player 4,Bowler 2,2,3,0.0,1.0,0.0,,,LBW,nan,nan,Player 5,Team D
+54,2021,2018-01-07,Stadium B,1,39,Team C,Team B,Player 3,Player 4,Bowler 2,0,2,0.0,1.0,,0.0,,LBW,Player 1,Run Out,Player 4,Team D
+55,2019,2018-01-14,Stadium A,2,154,Team B,Team D,Player 2,Player 6,Bowler 3,5,4,0.0,0.0,,,0.0,Bowled,Player 1,nan,Player 4,Team A
+56,2017,2018-01-21,Stadium B,2,250,Team B,Team D,Player 1,Player 4,Bowler 1,5,3,1.0,,0.0,0.0,0.0,nan,Player 2,nan,nan,Team D
+57,2020,2018-01-28,Stadium C,2,162,Team B,Team C,Player 3,Player 4,Bowler 1,6,2,,0.0,0.0,,,Bowled,Player 3,Run Out,Player 6,Team B
+58,2018,2018-02-04,Stadium A,1,118,Team D,Team B,Player 2,Player 4,Bowler 1,0,4,1.0,0.0,0.0,,0.0,Bowled,Player 2,Run Out,nan,Team C
+59,2020,2018-02-11,Stadium A,2,259,Team A,Team A,Player 2,Player 5,Bowler 3,4,3,,1.0,,0.0,0.0,Bowled,nan,Run Out,Player 6,Team B
+60,2018,2018-02-18,Stadium A,1,268,Team A,Team B,Player 2,Player 6,Bowler 2,6,3,1.0,1.0,,0.0,,LBW,Player 2,nan,Player 5,Team A
+61,2018,2018-02-25,Stadium A,1,54,Team B,Team C,Player 3,Player 6,Bowler 3,0,0,1.0,1.0,,0.0,0.0,Bowled,Player 1,Run Out,Player 6,Team A
+62,2020,2018-03-04,Stadium B,1,236,Team A,Team C,Player 1,Player 5,Bowler 3,3,0,0.0,1.0,0.0,0.0,,Bowled,nan,Run Out,nan,Team D
+63,2021,2018-03-11,Stadium A,1,222,Team B,Team B,Player 3,Player 6,Bowler 2,1,4,,,0.0,0.0,,nan,Player 1,nan,nan,Team B
+64,2018,2018-03-18,Stadium C,2,251,Team D,Team B,Player 3,Player 4,Bowler 1,6,3,1.0,,,0.0,,nan,Player 3,Run Out,nan,Team B
+65,2018,2018-03-25,Stadium C,2,112,Team D,Team B,Player 1,Player 6,Bowler 1,6,1,1.0,,0.0,,0.0,Bowled,Player 1,Run Out,Player 5,Team A
+66,2020,2018-04-01,Stadium A,1,255,Team C,Team D,Player 1,Player 4,Bowler 3,4,0,0.0,1.0,,,0.0,nan,Player 1,Run Out,Player 6,Team B
+67,2018,2018-04-08,Stadium C,1,207,Team D,Team A,Player 1,Player 5,Bowler 1,2,4,0.0,1.0,0.0,0.0,0.0,nan,Player 2,Run Out,Player 6,Team A
+68,2018,2018-04-15,Stadium A,1,229,Team B,Team B,Player 2,Player 4,Bowler 3,3,3,,1.0,0.0,,0.0,Bowled,Player 1,nan,nan,Team B
+69,2020,2018-04-22,Stadium A,2,66,Team D,Team B,Player 1,Player 6,Bowler 3,4,3,1.0,,0.0,0.0,,LBW,nan,Run Out,Player 6,Team B
+70,2020,2018-04-29,Stadium C,1,75,Team C,Team B,Player 3,Player 6,Bowler 2,0,1,,1.0,0.0,,,Bowled,nan,Run Out,Player 4,Team B
+71,2017,2018-05-06,Stadium A,1,103,Team A,Team C,Player 1,Player 6,Bowler 2,0,4,1.0,0.0,,,0.0,nan,Player 3,nan,Player 4,Team A
+72,2021,2018-05-13,Stadium C,2,192,Team B,Team C,Player 3,Player 5,Bowler 2,0,3,,0.0,0.0,0.0,,LBW,nan,Run Out,Player 4,Team D
+73,2021,2018-05-20,Stadium B,2,252,Team A,Team D,Player 2,Player 5,Bowler 3,0,0,0.0,1.0,,0.0,,Caught,Player 2,nan,Player 6,Team B
+74,2018,2018-05-27,Stadium A,1,226,Team C,Team A,Player 3,Player 6,Bowler 2,2,1,1.0,0.0,,0.0,0.0,LBW,Player 3,nan,Player 5,Team A
+75,2021,2018-06-03,Stadium B,2,294,Team C,Team D,Player 3,Player 4,Bowler 1,3,4,,0.0,,,,nan,nan,nan,Player 5,Team A
+76,2018,2018-06-10,Stadium C,2,98,Team C,Team A,Player 1,Player 5,Bowler 1,5,1,0.0,,0.0,0.0,0.0,LBW,Player 2,Run Out,Player 5,Team B
+77,2017,2018-06-17,Stadium B,1,286,Team A,Team C,Player 1,Player 6,Bowler 3,1,0,0.0,1.0,,,,Bowled,nan,nan,Player 5,Team B
+78,2020,2018-06-24,Stadium B,2,249,Team A,Team C,Player 3,Player 6,Bowler 3,2,4,,1.0,,0.0,0.0,Caught,nan,nan,Player 4,Team D
+79,2020,2018-07-01,Stadium C,1,166,Team A,Team C,Player 1,Player 5,Bowler 2,2,1,1.0,,,,,Caught,Player 1,nan,Player 4,Team A
+80,2020,2018-07-08,Stadium B,2,30,Team A,Team D,Player 2,Player 5,Bowler 3,5,2,1.0,0.0,0.0,,,Caught,nan,Run Out,nan,Team A
+81,2021,2018-07-15,Stadium B,1,247,Team C,Team B,Player 2,Player 5,Bowler 3,5,0,0.0,0.0,0.0,0.0,0.0,nan,nan,Run Out,Player 6,Team C
+82,2017,2018-07-22,Stadium C,1,106,Team C,Team B,Player 1,Player 4,Bowler 1,1,0,1.0,1.0,,,0.0,nan,Player 2,Run Out,Player 6,Team A
+83,2021,2018-07-29,Stadium B,1,51,Team B,Team C,Player 2,Player 4,Bowler 1,1,0,1.0,0.0,0.0,,0.0,Caught,Player 2,Run Out,Player 5,Team D
+84,2021,2018-08-05,Stadium C,2,81,Team B,Team B,Player 1,Player 6,Bowler 2,5,2,1.0,,,0.0,0.0,LBW,Player 1,Run Out,Player 4,Team C
+85,2017,2018-08-12,Stadium B,1,133,Team A,Team B,Player 3,Player 5,Bowler 3,0,2,0.0,,,,,Caught,nan,Run Out,Player 5,Team C
+86,2017,2018-08-19,Stadium C,2,285,Team D,Team D,Player 3,Player 4,Bowler 3,2,3,,1.0,0.0,0.0,,LBW,Player 1,Run Out,nan,Team C
+87,2017,2018-08-26,Stadium C,1,138,Team D,Team A,Player 2,Player 5,Bowler 1,4,1,1.0,,,0.0,0.0,LBW,nan,nan,Player 6,Team B
+88,2017,2018-09-02,Stadium B,1,184,Team C,Team C,Player 1,Player 6,Bowler 3,1,3,0.0,,0.0,0.0,,nan,Player 3,nan,Player 6,Team B
+89,2020,2018-09-09,Stadium B,2,273,Team C,Team C,Player 1,Player 4,Bowler 1,1,1,0.0,1.0,0.0,0.0,0.0,LBW,Player 3,nan,Player 5,Team A
+90,2019,2018-09-16,Stadium B,1,69,Team C,Team D,Player 2,Player 4,Bowler 2,5,2,,,,,0.0,Caught,Player 1,nan,nan,Team C
+91,2019,2018-09-23,Stadium A,1,34,Team B,Team D,Player 3,Player 4,Bowler 1,3,2,1.0,,0.0,,,nan,Player 1,Run Out,Player 6,Team D
+92,2017,2018-09-30,Stadium A,2,262,Team B,Team B,Player 2,Player 6,Bowler 3,4,3,1.0,,0.0,,,Bowled,Player 1,nan,nan,Team B
+93,2019,2018-10-07,Stadium A,1,53,Team C,Team C,Player 3,Player 5,Bowler 2,4,4,,0.0,,0.0,0.0,Bowled,Player 2,nan,nan,Team D
+94,2019,2018-10-14,Stadium C,1,205,Team C,Team A,Player 1,Player 4,Bowler 1,1,3,,1.0,,,0.0,nan,Player 2,nan,Player 5,Team D
+95,2017,2018-10-21,Stadium B,1,126,Team C,Team D,Player 3,Player 6,Bowler 1,0,1,0.0,1.0,0.0,,0.0,Caught,Player 2,nan,Player 4,Team B
+96,2019,2018-10-28,Stadium C,1,235,Team D,Team A,Player 2,Player 5,Bowler 2,3,3,0.0,1.0,0.0,0.0,,Bowled,Player 1,Run Out,Player 5,Team B
+97,2021,2018-11-04,Stadium A,2,43,Team B,Team A,Player 1,Player 6,Bowler 2,4,0,,0.0,,0.0,,Bowled,nan,Run Out,Player 4,Team B
+98,2018,2018-11-11,Stadium B,2,240,Team D,Team C,Player 2,Player 5,Bowler 1,1,1,1.0,0.0,0.0,,,LBW,Player 3,Run Out,nan,Team B
+99,2018,2018-11-18,Stadium C,1,111,Team D,Team C,Player 2,Player 6,Bowler 3,4,1,0.0,1.0,0.0,0.0,,LBW,Player 1,nan,Player 4,Team C
+100,2017,2018-11-25,Stadium B,2,249,Team C,Team D,Player 3,Player 5,Bowler 1,6,4,0.0,0.0,0.0,0.0,0.0,Caught,Player 2,Run Out,nan,Team C
+101,2020,2018-12-02,Stadium C,1,151,Team C,Team C,Player 2,Player 4,Bowler 2,3,2,1.0,1.0,0.0,0.0,0.0,nan,Player 2,nan,Player 6,Team C
+102,2017,2018-12-09,Stadium B,2,183,Team A,Team C,Player 3,Player 5,Bowler 1,3,1,0.0,0.0,0.0,0.0,0.0,Caught,Player 1,Run Out,Player 6,Team C
+103,2020,2018-12-16,Stadium A,1,95,Team A,Team C,Player 1,Player 6,Bowler 2,6,2,1.0,,0.0,,0.0,nan,Player 1,Run Out,Player 6,Team A
+104,2018,2018-12-23,Stadium A,1,8,Team D,Team A,Player 3,Player 6,Bowler 2,2,3,1.0,,0.0,0.0,0.0,Bowled,Player 2,Run Out,Player 5,Team C
+105,2017,2018-12-30,Stadium B,1,184,Team B,Team D,Player 1,Player 5,Bowler 3,6,0,1.0,1.0,,0.0,0.0,LBW,nan,Run Out,Player 5,Team B
+106,2021,2019-01-06,Stadium C,1,281,Team C,Team B,Player 3,Player 4,Bowler 2,5,4,,0.0,,0.0,,Caught,Player 2,Run Out,nan,Team D
+107,2019,2019-01-13,Stadium A,1,195,Team C,Team A,Player 2,Player 4,Bowler 2,5,2,,0.0,,0.0,,Caught,Player 2,nan,Player 6,Team C
+108,2020,2019-01-20,Stadium A,1,195,Team D,Team C,Player 3,Player 5,Bowler 3,1,1,,,,0.0,0.0,nan,Player 1,Run Out,Player 5,Team A
+109,2019,2019-01-27,Stadium A,2,155,Team A,Team A,Player 3,Player 5,Bowler 2,3,2,1.0,,,0.0,0.0,nan,nan,nan,Player 6,Team B
+110,2019,2019-02-03,Stadium B,1,93,Team B,Team C,Player 1,Player 6,Bowler 3,2,1,1.0,0.0,0.0,0.0,,Caught,Player 2,nan,Player 5,Team D
+111,2017,2019-02-10,Stadium B,2,160,Team A,Team C,Player 2,Player 4,Bowler 3,2,2,,0.0,0.0,0.0,,nan,Player 2,nan,Player 4,Team D
+112,2019,2019-02-17,Stadium C,1,61,Team A,Team A,Player 3,Player 5,Bowler 2,4,1,0.0,0.0,0.0,,,Caught,Player 3,nan,Player 4,Team C
+113,2021,2019-02-24,Stadium C,2,122,Team A,Team D,Player 2,Player 4,Bowler 2,4,3,1.0,0.0,0.0,0.0,,Caught,Player 1,nan,Player 6,Team D
+114,2019,2019-03-03,Stadium C,2,51,Team A,Team C,Player 3,Player 5,Bowler 1,6,1,0.0,0.0,,,0.0,Caught,Player 3,Run Out,nan,Team C
+115,2017,2019-03-10,Stadium B,2,277,Team C,Team D,Player 3,Player 5,Bowler 3,2,1,0.0,0.0,0.0,0.0,0.0,Bowled,Player 3,Run Out,Player 5,Team C
+116,2021,2019-03-17,Stadium B,1,5,Team C,Team B,Player 2,Player 4,Bowler 1,6,0,1.0,1.0,0.0,0.0,0.0,nan,Player 2,Run Out,Player 5,Team B
+117,2018,2019-03-24,Stadium C,1,92,Team A,Team C,Player 3,Player 5,Bowler 2,6,1,1.0,0.0,,0.0,0.0,LBW,Player 1,Run Out,Player 4,Team B
+118,2019,2019-03-31,Stadium C,2,170,Team B,Team D,Player 2,Player 5,Bowler 1,4,0,0.0,,0.0,0.0,0.0,LBW,nan,nan,Player 4,Team A
+119,2017,2019-04-07,Stadium B,1,22,Team D,Team D,Player 3,Player 6,Bowler 3,3,4,0.0,1.0,0.0,,,nan,Player 2,Run Out,nan,Team B
+120,2018,2019-04-14,Stadium C,2,1,Team B,Team B,Player 1,Player 5,Bowler 1,6,0,,0.0,,0.0,0.0,Caught,nan,Run Out,nan,Team B
+121,2018,2019-04-21,Stadium A,1,133,Team B,Team D,Player 2,Player 5,Bowler 3,0,3,,,0.0,0.0,,LBW,nan,nan,nan,Team C
+122,2020,2019-04-28,Stadium B,2,233,Team B,Team D,Player 3,Player 5,Bowler 2,3,0,1.0,1.0,0.0,,0.0,LBW,Player 1,nan,Player 6,Team B
+123,2021,2019-05-05,Stadium C,2,12,Team A,Team B,Player 3,Player 6,Bowler 2,2,4,,,0.0,,0.0,nan,Player 3,Run Out,Player 4,Team C
+124,2019,2019-05-12,Stadium B,1,46,Team C,Team C,Player 1,Player 4,Bowler 3,2,3,,0.0,0.0,0.0,0.0,LBW,Player 1,Run Out,Player 6,Team C
+125,2017,2019-05-19,Stadium A,2,34,Team B,Team D,Player 2,Player 6,Bowler 2,6,2,,0.0,0.0,,0.0,Caught,nan,nan,Player 4,Team B
+126,2020,2019-05-26,Stadium B,1,78,Team A,Team D,Player 3,Player 6,Bowler 2,3,2,,0.0,,,0.0,nan,Player 2,Run Out,Player 4,Team A
+127,2021,2019-06-02,Stadium B,2,218,Team B,Team D,Player 1,Player 4,Bowler 2,4,0,0.0,0.0,,,,Caught,nan,Run Out,Player 5,Team A
+128,2020,2019-06-09,Stadium B,2,73,Team B,Team A,Player 3,Player 6,Bowler 2,4,0,1.0,1.0,,0.0,,LBW,Player 2,Run Out,Player 4,Team D
+129,2021,2019-06-16,Stadium B,1,282,Team A,Team B,Player 2,Player 4,Bowler 3,5,4,,1.0,,0.0,,LBW,Player 2,Run Out,Player 4,Team D
+130,2021,2019-06-23,Stadium A,1,249,Team C,Team A,Player 3,Player 6,Bowler 1,2,4,0.0,,,0.0,0.0,Caught,Player 1,nan,Player 6,Team B
+131,2019,2019-06-30,Stadium B,1,47,Team C,Team B,Player 3,Player 4,Bowler 1,1,1,0.0,0.0,,,0.0,Bowled,nan,nan,Player 4,Team A
+132,2021,2019-07-07,Stadium B,2,121,Team D,Team C,Player 3,Player 5,Bowler 2,5,4,0.0,,0.0,0.0,,LBW,Player 3,nan,Player 6,Team C
+133,2020,2019-07-14,Stadium C,1,214,Team A,Team C,Player 3,Player 6,Bowler 1,4,1,,1.0,,,0.0,Bowled,nan,Run Out,nan,Team D
+134,2021,2019-07-21,Stadium B,2,239,Team D,Team D,Player 1,Player 6,Bowler 1,3,3,,0.0,,0.0,0.0,LBW,nan,Run Out,Player 4,Team C
+135,2019,2019-07-28,Stadium C,2,56,Team D,Team B,Player 1,Player 6,Bowler 2,4,0,1.0,0.0,0.0,0.0,,Bowled,Player 3,Run Out,Player 4,Team D
+136,2019,2019-08-04,Stadium A,1,107,Team D,Team C,Player 2,Player 6,Bowler 2,3,3,,1.0,0.0,,0.0,Bowled,Player 1,Run Out,Player 6,Team B
+137,2020,2019-08-11,Stadium A,1,48,Team C,Team B,Player 1,Player 5,Bowler 1,5,4,,1.0,,0.0,,Bowled,nan,Run Out,nan,Team A
+138,2018,2019-08-18,Stadium A,2,61,Team A,Team C,Player 1,Player 6,Bowler 3,2,3,0.0,1.0,0.0,,0.0,Caught,nan,nan,Player 5,Team D
+139,2018,2019-08-25,Stadium A,2,26,Team D,Team A,Player 2,Player 5,Bowler 2,4,3,1.0,1.0,,,,Bowled,Player 2,Run Out,nan,Team A
+140,2021,2019-09-01,Stadium C,1,292,Team A,Team C,Player 1,Player 5,Bowler 3,6,3,,1.0,0.0,0.0,0.0,Bowled,nan,Run Out,Player 6,Team C
+141,2017,2019-09-08,Stadium B,1,257,Team A,Team A,Player 1,Player 5,Bowler 1,3,4,,0.0,,,0.0,Bowled,Player 3,nan,nan,Team B
+142,2021,2019-09-15,Stadium A,1,8,Team C,Team C,Player 2,Player 5,Bowler 2,2,3,0.0,1.0,0.0,0.0,,LBW,Player 2,Run Out,Player 6,Team A
+143,2020,2019-09-22,Stadium B,1,113,Team D,Team D,Player 2,Player 4,Bowler 3,1,1,0.0,0.0,0.0,0.0,0.0,Bowled,Player 1,nan,Player 6,Team B
+144,2020,2019-09-29,Stadium C,1,253,Team D,Team A,Player 2,Player 4,Bowler 2,3,4,,0.0,,,0.0,LBW,Player 2,nan,Player 5,Team A
+145,2020,2019-10-06,Stadium C,2,180,Team A,Team C,Player 3,Player 6,Bowler 1,5,3,1.0,1.0,,0.0,,Bowled,Player 3,nan,Player 4,Team C
+146,2020,2019-10-13,Stadium C,2,207,Team B,Team D,Player 3,Player 4,Bowler 3,1,4,1.0,1.0,,,0.0,Bowled,Player 3,nan,Player 6,Team C
+147,2020,2019-10-20,Stadium A,2,127,Team C,Team A,Player 2,Player 4,Bowler 1,1,2,0.0,0.0,,0.0,,Caught,Player 2,nan,Player 6,Team B
+148,2019,2019-10-27,Stadium B,2,56,Team C,Team D,Player 2,Player 6,Bowler 1,0,1,0.0,1.0,,0.0,0.0,LBW,Player 1,Run Out,Player 5,Team C
+149,2018,2019-11-03,Stadium B,1,214,Team C,Team B,Player 2,Player 6,Bowler 2,4,3,,1.0,0.0,0.0,0.0,Bowled,Player 2,nan,Player 6,Team D
+150,2020,2019-11-10,Stadium B,1,14,Team C,Team B,Player 3,Player 6,Bowler 3,3,2,0.0,1.0,,0.0,0.0,LBW,Player 1,nan,Player 4,Team A
+151,2017,2019-11-17,Stadium C,1,28,Team D,Team A,Player 3,Player 4,Bowler 1,1,2,,,,0.0,0.0,LBW,Player 2,Run Out,Player 5,Team C
+152,2017,2019-11-24,Stadium A,2,78,Team D,Team C,Player 1,Player 4,Bowler 1,0,4,1.0,0.0,0.0,,,nan,Player 3,Run Out,Player 4,Team D
+153,2017,2019-12-01,Stadium C,2,216,Team B,Team A,Player 1,Player 6,Bowler 3,5,2,1.0,,0.0,,0.0,Caught,nan,nan,Player 4,Team B
+154,2017,2019-12-08,Stadium C,1,154,Team C,Team D,Player 2,Player 5,Bowler 1,2,1,,1.0,,,,Caught,nan,Run Out,Player 5,Team D
+155,2019,2019-12-15,Stadium B,1,14,Team C,Team C,Player 3,Player 6,Bowler 1,6,1,0.0,,0.0,,0.0,Caught,Player 1,Run Out,Player 6,Team B
+156,2017,2019-12-22,Stadium C,2,187,Team A,Team B,Player 3,Player 5,Bowler 3,6,0,1.0,1.0,0.0,,0.0,nan,Player 1,nan,Player 4,Team B
+157,2020,2019-12-29,Stadium B,2,7,Team D,Team C,Player 3,Player 5,Bowler 3,3,1,0.0,,,,0.0,nan,Player 1,nan,Player 4,Team A
+158,2021,2020-01-05,Stadium A,1,3,Team C,Team B,Player 2,Player 6,Bowler 3,1,2,1.0,1.0,0.0,0.0,0.0,Caught,Player 3,Run Out,Player 4,Team A
+159,2017,2020-01-12,Stadium B,1,111,Team B,Team C,Player 1,Player 6,Bowler 3,6,1,,,0.0,0.0,,nan,Player 2,nan,Player 4,Team D
+160,2019,2020-01-19,Stadium A,2,238,Team B,Team C,Player 2,Player 6,Bowler 2,4,4,,,,,,nan,Player 3,nan,Player 5,Team A
+161,2019,2020-01-26,Stadium B,1,239,Team D,Team C,Player 1,Player 4,Bowler 3,6,0,,,,,,nan,nan,Run Out,Player 5,Team A
+162,2017,2020-02-02,Stadium C,1,274,Team B,Team D,Player 1,Player 5,Bowler 2,6,2,1.0,0.0,0.0,0.0,,Caught,Player 1,nan,nan,Team A
+163,2021,2020-02-09,Stadium C,1,294,Team B,Team D,Player 2,Player 4,Bowler 2,6,0,0.0,,0.0,0.0,0.0,Caught,Player 2,nan,nan,Team D
+164,2017,2020-02-16,Stadium A,2,227,Team D,Team A,Player 1,Player 4,Bowler 2,0,2,0.0,0.0,,0.0,,Caught,nan,nan,Player 4,Team C
+165,2019,2020-02-23,Stadium A,2,15,Team C,Team A,Player 1,Player 6,Bowler 1,1,4,0.0,1.0,0.0,,,nan,nan,nan,Player 6,Team A
+166,2018,2020-03-01,Stadium A,2,192,Team C,Team B,Player 3,Player 4,Bowler 2,4,0,1.0,,0.0,,0.0,Caught,nan,nan,Player 4,Team A
+167,2020,2020-03-08,Stadium B,2,119,Team B,Team D,Player 1,Player 6,Bowler 2,1,3,1.0,1.0,0.0,,0.0,nan,Player 3,Run Out,Player 6,Team D
+168,2019,2020-03-15,Stadium B,2,28,Team B,Team B,Player 2,Player 5,Bowler 1,3,2,1.0,1.0,,0.0,0.0,Bowled,Player 1,Run Out,Player 4,Team C
+169,2017,2020-03-22,Stadium A,2,202,Team C,Team A,Player 2,Player 6,Bowler 1,3,3,1.0,,0.0,0.0,0.0,nan,nan,nan,nan,Team A
+170,2020,2020-03-29,Stadium C,2,39,Team D,Team B,Player 1,Player 4,Bowler 1,3,0,1.0,0.0,0.0,,,LBW,Player 1,Run Out,nan,Team B
+171,2017,2020-04-05,Stadium B,1,273,Team B,Team A,Player 3,Player 4,Bowler 3,5,3,0.0,,,,,Caught,Player 3,nan,Player 6,Team D
+172,2017,2020-04-12,Stadium B,1,231,Team A,Team D,Player 3,Player 6,Bowler 1,6,3,1.0,1.0,0.0,0.0,0.0,Caught,nan,nan,Player 4,Team A
+173,2018,2020-04-19,Stadium B,1,86,Team D,Team C,Player 1,Player 6,Bowler 1,5,0,1.0,1.0,0.0,0.0,0.0,LBW,Player 3,nan,Player 6,Team A
+174,2020,2020-04-26,Stadium A,1,126,Team B,Team D,Player 1,Player 4,Bowler 2,0,4,0.0,,,0.0,0.0,nan,Player 3,nan,nan,Team B
+175,2020,2020-05-03,Stadium A,1,25,Team B,Team B,Player 2,Player 5,Bowler 1,3,3,1.0,0.0,,0.0,,Bowled,Player 1,nan,Player 4,Team B
+176,2018,2020-05-10,Stadium A,1,145,Team A,Team B,Player 1,Player 5,Bowler 3,4,3,0.0,0.0,,,,LBW,nan,Run Out,Player 4,Team D
+177,2019,2020-05-17,Stadium A,1,13,Team A,Team D,Player 3,Player 6,Bowler 1,1,4,0.0,1.0,,0.0,0.0,LBW,Player 3,Run Out,Player 6,Team D
+178,2017,2020-05-24,Stadium A,2,212,Team C,Team D,Player 1,Player 5,Bowler 3,6,3,,1.0,0.0,0.0,0.0,nan,nan,nan,Player 5,Team B
+179,2021,2020-05-31,Stadium C,2,25,Team D,Team A,Player 2,Player 4,Bowler 1,2,3,,0.0,0.0,0.0,,Caught,Player 1,Run Out,Player 6,Team D
+180,2017,2020-06-07,Stadium C,1,68,Team D,Team B,Player 2,Player 6,Bowler 1,4,3,,,,,0.0,nan,Player 3,nan,nan,Team B
+181,2017,2020-06-14,Stadium A,1,67,Team C,Team B,Player 2,Player 4,Bowler 1,6,1,,1.0,,,0.0,LBW,Player 1,Run Out,nan,Team A
+182,2019,2020-06-21,Stadium B,2,233,Team D,Team D,Player 2,Player 4,Bowler 1,5,4,1.0,0.0,0.0,0.0,,LBW,nan,nan,nan,Team B
+183,2017,2020-06-28,Stadium A,1,109,Team D,Team C,Player 2,Player 5,Bowler 3,5,3,,1.0,,0.0,0.0,Caught,nan,Run Out,nan,Team B
+184,2018,2020-07-05,Stadium C,1,146,Team D,Team B,Player 1,Player 6,Bowler 3,4,4,0.0,,0.0,0.0,,Caught,Player 1,nan,nan,Team C
+185,2018,2020-07-12,Stadium C,2,111,Team D,Team C,Player 1,Player 6,Bowler 2,5,2,1.0,0.0,,,0.0,Caught,Player 2,nan,Player 5,Team B
+186,2020,2020-07-19,Stadium B,1,228,Team D,Team D,Player 1,Player 5,Bowler 3,3,2,,1.0,0.0,,0.0,nan,Player 3,Run Out,Player 4,Team B
+187,2021,2020-07-26,Stadium C,2,111,Team A,Team D,Player 1,Player 4,Bowler 1,0,3,0.0,,,,,Caught,nan,Run Out,Player 6,Team C
+188,2017,2020-08-02,Stadium A,1,34,Team D,Team A,Player 2,Player 4,Bowler 2,1,4,1.0,1.0,,0.0,,LBW,nan,nan,Player 6,Team D
+189,2017,2020-08-09,Stadium B,2,111,Team A,Team B,Player 3,Player 4,Bowler 2,0,4,1.0,,0.0,,0.0,LBW,Player 3,Run Out,nan,Team C
+190,2019,2020-08-16,Stadium A,2,264,Team D,Team C,Player 1,Player 4,Bowler 2,6,4,,,,0.0,,Bowled,Player 1,nan,Player 6,Team A
+191,2018,2020-08-23,Stadium A,2,236,Team C,Team A,Player 3,Player 6,Bowler 1,1,1,1.0,0.0,0.0,0.0,0.0,nan,Player 1,Run Out,nan,Team C
+192,2021,2020-08-30,Stadium B,1,83,Team B,Team B,Player 1,Player 6,Bowler 3,1,2,0.0,,0.0,0.0,0.0,Bowled,Player 1,Run Out,Player 5,Team A
+193,2020,2020-09-06,Stadium A,2,42,Team A,Team A,Player 1,Player 5,Bowler 1,0,4,1.0,1.0,0.0,,,LBW,Player 2,nan,Player 5,Team D
+194,2018,2020-09-13,Stadium C,1,101,Team D,Team D,Player 3,Player 5,Bowler 2,4,4,0.0,,0.0,0.0,0.0,Bowled,Player 2,Run Out,Player 4,Team C
+195,2020,2020-09-20,Stadium A,1,6,Team C,Team B,Player 2,Player 6,Bowler 1,1,1,1.0,,0.0,,0.0,LBW,nan,Run Out,Player 5,Team C
+196,2019,2020-09-27,Stadium B,1,180,Team B,Team A,Player 1,Player 6,Bowler 1,0,1,,0.0,,,,Bowled,Player 1,nan,Player 5,Team D
+197,2019,2020-10-04,Stadium B,1,282,Team A,Team A,Player 1,Player 4,Bowler 3,1,4,0.0,,,0.0,,Caught,Player 3,Run Out,Player 4,Team A
+198,2017,2020-10-11,Stadium B,2,226,Team B,Team C,Player 1,Player 4,Bowler 3,2,0,1.0,,0.0,0.0,0.0,Bowled,nan,nan,Player 6,Team C
+199,2021,2020-10-18,Stadium A,2,229,Team C,Team A,Player 3,Player 5,Bowler 2,4,4,1.0,1.0,,,,Caught,Player 3,nan,nan,Team A
+200,2020,2020-10-25,Stadium B,1,289,Team A,Team B,Player 2,Player 6,Bowler 1,3,4,1.0,0.0,0.0,0.0,,Caught,nan,nan,nan,Team C
+201,2018,2020-11-01,Stadium B,1,150,Team B,Team B,Player 3,Player 5,Bowler 1,1,1,0.0,0.0,,,,nan,Player 2,nan,Player 6,Team B
+202,2019,2020-11-08,Stadium A,2,277,Team D,Team C,Player 3,Player 6,Bowler 3,2,1,0.0,0.0,,0.0,,Caught,nan,nan,Player 4,Team C
+203,2017,2020-11-15,Stadium C,1,198,Team A,Team B,Player 2,Player 4,Bowler 1,3,4,0.0,,,,0.0,Caught,Player 2,Run Out,Player 6,Team D
+204,2017,2020-11-22,Stadium A,2,70,Team B,Team D,Player 3,Player 5,Bowler 1,3,4,,0.0,,,0.0,Bowled,nan,nan,Player 5,Team D
+205,2020,2020-11-29,Stadium B,1,112,Team C,Team B,Player 2,Player 5,Bowler 1,6,4,,,0.0,,0.0,LBW,Player 1,nan,Player 4,Team A
+206,2019,2020-12-06,Stadium B,1,4,Team C,Team B,Player 1,Player 6,Bowler 3,1,1,0.0,,0.0,,,nan,Player 3,Run Out,Player 4,Team C
+207,2021,2020-12-13,Stadium A,2,95,Team A,Team A,Player 2,Player 4,Bowler 2,0,4,1.0,1.0,,0.0,,Caught,Player 1,Run Out,Player 4,Team A
+208,2019,2020-12-20,Stadium C,1,152,Team B,Team A,Player 1,Player 5,Bowler 2,1,4,,1.0,,0.0,,nan,nan,Run Out,nan,Team A
+209,2020,2020-12-27,Stadium B,2,137,Team A,Team B,Player 3,Player 4,Bowler 1,2,3,0.0,1.0,0.0,,,Bowled,nan,nan,Player 6,Team B
+210,2020,2021-01-03,Stadium B,1,247,Team A,Team C,Player 3,Player 5,Bowler 2,3,0,1.0,1.0,,,,Caught,nan,nan,Player 4,Team B
+211,2019,2021-01-10,Stadium B,1,243,Team B,Team A,Player 1,Player 4,Bowler 3,1,2,,1.0,0.0,0.0,,Bowled,Player 2,nan,Player 4,Team D
+212,2020,2021-01-17,Stadium A,1,31,Team B,Team C,Player 3,Player 6,Bowler 3,0,0,1.0,,0.0,0.0,,nan,Player 3,Run Out,Player 4,Team A
+213,2019,2021-01-24,Stadium B,2,40,Team D,Team B,Player 2,Player 5,Bowler 2,6,3,1.0,,0.0,0.0,0.0,Bowled,Player 3,nan,Player 6,Team D
+214,2018,2021-01-31,Stadium C,1,229,Team B,Team B,Player 1,Player 5,Bowler 2,1,2,1.0,0.0,,0.0,0.0,nan,nan,Run Out,nan,Team C
+215,2019,2021-02-07,Stadium B,1,36,Team C,Team D,Player 3,Player 4,Bowler 1,4,4,1.0,,0.0,0.0,,Bowled,nan,nan,Player 5,Team A
+216,2019,2021-02-14,Stadium B,1,223,Team A,Team A,Player 1,Player 4,Bowler 2,6,3,,,,0.0,,nan,Player 2,Run Out,nan,Team A
+217,2020,2021-02-21,Stadium C,1,6,Team A,Team B,Player 2,Player 5,Bowler 1,0,4,,1.0,0.0,,,LBW,Player 1,nan,Player 4,Team C
+218,2020,2021-02-28,Stadium B,2,220,Team C,Team D,Player 2,Player 6,Bowler 1,2,1,,,,0.0,0.0,Bowled,Player 1,nan,nan,Team C
+219,2017,2021-03-07,Stadium A,2,75,Team B,Team A,Player 3,Player 4,Bowler 3,3,3,0.0,1.0,,0.0,0.0,Bowled,Player 3,nan,nan,Team D
+220,2017,2021-03-14,Stadium A,1,4,Team C,Team B,Player 2,Player 4,Bowler 3,1,1,,0.0,,,,LBW,Player 2,Run Out,Player 5,Team D
+221,2018,2021-03-21,Stadium A,2,134,Team C,Team B,Player 1,Player 4,Bowler 3,0,3,1.0,0.0,0.0,0.0,,LBW,nan,Run Out,Player 6,Team C
+222,2017,2021-03-28,Stadium C,1,118,Team D,Team A,Player 2,Player 5,Bowler 3,6,3,,,0.0,0.0,0.0,Bowled,Player 3,nan,Player 6,Team D
+223,2019,2021-04-04,Stadium B,1,94,Team C,Team A,Player 1,Player 5,Bowler 2,4,1,1.0,0.0,,0.0,0.0,LBW,Player 2,nan,nan,Team C
+224,2020,2021-04-11,Stadium A,1,62,Team A,Team A,Player 1,Player 5,Bowler 3,0,2,0.0,,,0.0,0.0,Caught,Player 1,nan,nan,Team A
+225,2017,2021-04-18,Stadium C,2,194,Team C,Team B,Player 2,Player 5,Bowler 2,5,0,1.0,0.0,,0.0,0.0,nan,Player 2,Run Out,Player 6,Team A
+226,2017,2021-04-25,Stadium B,2,203,Team A,Team B,Player 3,Player 6,Bowler 3,4,4,1.0,1.0,0.0,,,nan,Player 1,nan,Player 6,Team B
+227,2018,2021-05-02,Stadium C,2,26,Team A,Team D,Player 2,Player 6,Bowler 2,6,3,1.0,1.0,0.0,0.0,0.0,nan,Player 2,nan,Player 5,Team A
+228,2018,2021-05-09,Stadium A,2,173,Team A,Team C,Player 1,Player 5,Bowler 1,2,4,0.0,1.0,0.0,,0.0,Caught,Player 3,nan,Player 4,Team C
+229,2019,2021-05-16,Stadium A,2,133,Team B,Team A,Player 1,Player 6,Bowler 2,3,1,,1.0,0.0,,,LBW,Player 1,nan,nan,Team D
+230,2020,2021-05-23,Stadium A,2,118,Team D,Team B,Player 2,Player 4,Bowler 2,6,4,,,,0.0,0.0,LBW,Player 3,Run Out,Player 6,Team B
+231,2018,2021-05-30,Stadium C,2,275,Team A,Team B,Player 3,Player 4,Bowler 3,2,1,0.0,0.0,,,0.0,Bowled,Player 3,Run Out,nan,Team D
+232,2017,2021-06-06,Stadium C,2,212,Team A,Team A,Player 3,Player 4,Bowler 2,1,4,1.0,,0.0,0.0,0.0,LBW,Player 1,nan,nan,Team C
+233,2020,2021-06-13,Stadium A,2,225,Team B,Team C,Player 1,Player 5,Bowler 1,0,0,,1.0,0.0,,,Bowled,Player 1,nan,Player 6,Team A
+234,2020,2021-06-20,Stadium C,1,20,Team A,Team A,Player 1,Player 4,Bowler 1,5,0,0.0,,,,0.0,Caught,nan,Run Out,Player 5,Team B
+235,2017,2021-06-27,Stadium A,2,113,Team C,Team C,Player 3,Player 6,Bowler 3,4,0,,0.0,0.0,0.0,,nan,nan,Run Out,nan,Team C
+236,2018,2021-07-04,Stadium A,2,140,Team C,Team B,Player 2,Player 5,Bowler 1,4,0,0.0,,0.0,0.0,,nan,nan,nan,Player 5,Team B
+237,2017,2021-07-11,Stadium B,2,47,Team D,Team C,Player 1,Player 6,Bowler 2,0,0,1.0,0.0,0.0,0.0,0.0,nan,Player 3,Run Out,Player 6,Team B
+238,2020,2021-07-18,Stadium C,2,1,Team A,Team D,Player 1,Player 4,Bowler 1,5,0,,,0.0,0.0,0.0,LBW,Player 3,Run Out,Player 4,Team A
+239,2021,2021-07-25,Stadium A,2,90,Team B,Team B,Player 3,Player 4,Bowler 3,0,1,0.0,0.0,0.0,0.0,0.0,Bowled,nan,nan,Player 4,Team C
+240,2021,2021-08-01,Stadium A,2,142,Team C,Team D,Player 2,Player 4,Bowler 2,1,3,,0.0,0.0,,0.0,Bowled,Player 3,Run Out,nan,Team D
+241,2019,2021-08-08,Stadium C,2,38,Team B,Team A,Player 3,Player 5,Bowler 3,2,4,,1.0,,,,Caught,Player 3,Run Out,Player 6,Team B
+242,2017,2021-08-15,Stadium B,2,293,Team B,Team A,Player 2,Player 6,Bowler 2,6,0,,0.0,0.0,,0.0,LBW,Player 1,nan,Player 5,Team B
+243,2017,2021-08-22,Stadium B,2,139,Team C,Team A,Player 2,Player 5,Bowler 1,4,1,,1.0,0.0,,0.0,Caught,Player 1,nan,nan,Team D
+244,2019,2021-08-29,Stadium A,2,259,Team B,Team C,Player 2,Player 5,Bowler 3,1,1,0.0,1.0,,,0.0,Bowled,Player 3,Run Out,Player 6,Team C
+245,2019,2021-09-05,Stadium C,2,161,Team C,Team B,Player 1,Player 4,Bowler 3,2,1,1.0,1.0,,,,Bowled,nan,nan,Player 6,Team B
+246,2019,2021-09-12,Stadium B,1,178,Team B,Team A,Player 3,Player 5,Bowler 2,1,3,0.0,,,,0.0,nan,Player 2,Run Out,Player 5,Team B
+247,2020,2021-09-19,Stadium C,1,10,Team C,Team A,Player 3,Player 5,Bowler 3,5,4,0.0,,0.0,0.0,0.0,LBW,nan,nan,nan,Team B
+248,2017,2021-09-26,Stadium C,2,261,Team A,Team B,Player 2,Player 4,Bowler 2,4,3,0.0,,,0.0,,Bowled,Player 2,Run Out,Player 6,Team C
+249,2020,2021-10-03,Stadium A,2,138,Team D,Team A,Player 1,Player 5,Bowler 2,6,2,1.0,,0.0,,,nan,nan,nan,Player 6,Team C
+250,2019,2021-10-10,Stadium B,1,172,Team C,Team D,Player 1,Player 4,Bowler 2,0,1,,0.0,0.0,,0.0,LBW,Player 1,Run Out,Player 6,Team D
